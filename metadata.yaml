@@ -1,5 +1,8 @@
 _repo: Barrack-Room-Ballads_2819
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: Barrack-room ballads -- Departmental ditties -- Other verses -- The story
   of the Gadsbys.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2819#Barrack-Room-Ballads
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
